@@ -34,8 +34,6 @@ Adventure Works is a multinational bicycle manufacturing company aiming to expan
 
 ---
 
----
-
 ## 💡 Key Insights
 - Identified top revenue-generating regions and products  
 - High-value customers contribute significantly to total sales  
